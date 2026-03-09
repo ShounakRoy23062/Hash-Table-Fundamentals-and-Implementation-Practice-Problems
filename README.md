@@ -1,1 +1,1 @@
-# Hash-Table-Fundamentals-and-Implementation-Practice-Problems
+# Hash Table Fundamentals and Implementation Practice Problems
